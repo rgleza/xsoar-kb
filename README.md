@@ -1,2 +1,2 @@
 # xsoar-kb
-XSOAR's scripts, unofficial integrations, snippets and so on
+XSOAR scripts, unofficial integrations, snippets and so on
