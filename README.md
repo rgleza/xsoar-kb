@@ -9,4 +9,4 @@ It has a throttle function.
 ## Table of Contents
 
 ### XSOAR
-* [XSOAR Create Incident with File via API](XSOAR-Create-Incident-with-File-via-API)
+* [Mass Delete]
