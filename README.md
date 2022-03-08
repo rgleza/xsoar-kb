@@ -1,7 +1,7 @@
 # XSOAR md
 XSOAR scripts, unofficial integrations, snippets and so on.
 
-#XSOAR
+# XSOAR
 MassDelete.py
 Script to delete multiple incidents.
 It has a throttle function.
