@@ -1,1 +1,0 @@
-# Mass Deletion of incidents
