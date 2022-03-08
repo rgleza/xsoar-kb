@@ -5,11 +5,3 @@ XSOAR scripts, unofficial integrations, snippets and so on.
 
 ### Scripts
 [Massive Incident Deletion with throttle](MassDelete)
-Script to delete multiple incidents.
-It has a throttle function.
-
-
-## Table of Contents
-
-### XSOAR
-* [Mass Delete]
