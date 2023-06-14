@@ -9,4 +9,5 @@ XSOAR scripts, unofficial integrations, snippets and so on.
 
 ### Integrations
 Self Deployed App for Azure Log Analytics
+
 Other Scripts
